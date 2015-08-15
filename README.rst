@@ -4,6 +4,12 @@ Data Formatter
 
 .. image:: https://raw.github.com/kkujawinski/sublime-text-3-data-formatter/master/data_formatter_demo.gif
 
+Installation:
+-------------
+
+`cd ~/Library/Application Support/Sublime Text 3/Packages`
+`git clone https://github.com/kkujawinski/sublime-text-3-data-formatter.git "Data Formatter"`
+
 Prerequisites:
 --------------
 
