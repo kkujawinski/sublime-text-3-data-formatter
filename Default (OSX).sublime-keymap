@@ -1,0 +1,6 @@
+[
+    {
+        "keys": ["super+alt+f"],
+        "command": "data-formatter-format"
+    }
+]

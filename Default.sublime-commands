@@ -1,0 +1,28 @@
+[
+    {
+        "caption": "Preferences: Data Formatter Settings – Default",
+        "command": "open_file", "args":
+        {
+            "file": "${packages}/Data Formatter/Data Formatter.sublime-settings"
+        }
+    },
+    {
+        "caption": "Preferences: Data Formatter Settings – User",
+        "command": "open_file", "args":
+        {
+            "file": "${packages}/User/Data Formatter.sublime-settings"
+        }
+    },
+    {
+        "caption": "Data Formatter: Format JSON",
+        "command": "data_formatter_json"
+    },
+    {
+        "caption": "Data Formatter: Format XML",
+        "command": "data_formatter_xml"
+    },
+    {
+        "caption": "Data Formatter: Format",
+        "command": "data_formatter_format"
+    }
+]
