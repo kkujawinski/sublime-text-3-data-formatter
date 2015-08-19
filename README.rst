@@ -7,8 +7,10 @@ Data Formatter
 Installation:
 -------------
 
-`cd ~/Library/Application Support/Sublime Text 3/Packages`
-`git clone https://github.com/kkujawinski/sublime-text-3-data-formatter.git "Data Formatter"`
+.. code-block:: bash
+
+  cd ~/Library/Application Support/Sublime Text 3/Packages
+  git clone https://github.com/kkujawinski/sublime-text-3-data-formatter.git "Data Formatter"
 
 Prerequisites:
 --------------
